@@ -1,2 +1,2 @@
 Zig implementation of _eventcount_ (condition variable for lock-free algorithms).
-Based on [this implementation in Eigen](https://gitlab.com/libeigen/eigen/-/blob/391094c50743f28f9174f455661f650bf07e0177/unsupported/Eigen/CXX11/src/ThreadPool/EventCount.h).
+Based on [this implementation in Taskflow](https://github.com/taskflow/taskflow/blob/8b5661962d3b0670c09039faf862835031a287ae/taskflow/core/notifier.hpp).
